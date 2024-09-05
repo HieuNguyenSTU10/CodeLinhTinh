@@ -1,6 +1,15 @@
-2024/09/05-17:58:31.874 4 Reusing MANIFEST /home/azureuser/CodeLinhTinh/tk/Default/Local Storage/leveldb/MANIFEST-000001
-2024/09/05-17:58:31.890 4 Recovering log #166
-2024/09/05-17:58:31.891 4 Reusing old log /home/azureuser/CodeLinhTinh/tk/Default/Local Storage/leveldb/000166.log 
-2024/09/05-17:58:41.302 4 Level-0 table #170: started
-2024/09/05-17:58:41.311 4 Level-0 table #170: 26861 bytes OK
-2024/09/05-17:58:41.318 4 Delete type=0 #166
+2024/09/05-21:58:30.931 4 Reusing MANIFEST /home/azureuser/CodeLinhTinh/tk/Default/Local Storage/leveldb/MANIFEST-000001
+2024/09/05-21:58:30.948 4 Recovering log #172
+2024/09/05-21:58:30.948 4 Reusing old log /home/azureuser/CodeLinhTinh/tk/Default/Local Storage/leveldb/000172.log 
+2024/09/05-22:02:07.419 6 Level-0 table #176: started
+2024/09/05-22:02:07.427 6 Level-0 table #176: 26895 bytes OK
+2024/09/05-22:02:07.438 6 Delete type=0 #172
+2024/09/05-22:02:07.438 6 Compacting 4@0 + 1@1 files
+2024/09/05-22:02:07.449 6 Generated table #177@0: 2647 keys, 41048 bytes
+2024/09/05-22:02:07.449 6 Compacted 4@0 + 1@1 files => 41048 bytes
+2024/09/05-22:02:07.458 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/05-22:02:07.459 6 Delete type=2 #173
+2024/09/05-22:02:07.459 6 Delete type=2 #167
+2024/09/05-22:02:07.460 6 Delete type=2 #164
+2024/09/05-22:02:07.460 6 Delete type=2 #176
+2024/09/05-22:02:07.460 6 Delete type=2 #170
