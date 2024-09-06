@@ -31,3 +31,17 @@ For the CDN builds, these are available in the following manner
 
 https://www.gstatic.com/firebasejs/5.0.0/firebase-<PACKAGE>.js
 ", source: https://www.gstatic.com/firebasejs/8.8.1/firebase.js (1)
+[99972:99972:0906/140201.889118:INFO:CONSOLE(7)] "The key "max-scale" is not recognized and ignored.", source: https://cmangaog.com/user/game/dashboard (7)
+[99972:99972:0906/140202.212247:INFO:CONSOLE(1)] "
+It looks like you're using the development build of the Firebase JS SDK.
+When deploying Firebase apps to production, it is advisable to only import
+the individual SDK components you intend to use.
+
+For the CDN builds, these are available in the following manner
+(replace <PACKAGE> with the name of a component - i.e. auth, database, etc):
+
+https://www.gstatic.com/firebasejs/5.0.0/firebase-<PACKAGE>.js
+", source: https://www.gstatic.com/firebasejs/8.8.1/firebase.js (1)
+[100007:100036:0906/140217.219225:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[100007:100036:0906/140217.219435:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[99972:99972:0906/140217.245800:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
